@@ -1,0 +1,19 @@
+{
+  "name": "teamprofile-generator",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramondara10/teamprofile-generator.git"
+  },
+  "author": "Ramon Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramondara10/teamprofile-generator/issues"
+  },
+  "homepage": "https://github.com/ramondara10/teamprofile-generator#readme"
+}
